@@ -49,8 +49,4 @@ The program is implemented using a `Hostel` class with the following components:
 - Allows the user to add, remove, and display students or exit the program.
 - Handles invalid inputs and displays appropriate error messages.
 
-## How to Run the Program
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/agamchaurasia569/Hostel-Management-System.git
